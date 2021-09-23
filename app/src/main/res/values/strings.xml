@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Weather</string>
+    <string name="wind_emoji">🌫️</string>
+    <string name="water">💧</string>
+    <string name="eye_emoji">👁</string>
+    <string name="low_temp">Low</string>
+    <string name="high_temp">High</string>
+    <string name="degree_centigrade">°C</string>
+    <string name="temprature_state_image">Temprature State Image</string>
+    <string name="today_string">Today</string>
+    <string name="credits_to_me">BY: Asghar Ali Shah</string>
+    <string name="search_button">search_button</string>
+    <string name="hint_string">(cityName)/(lat,long)</string>
+    <string name="loading">Loading…</string>
+</resources>
