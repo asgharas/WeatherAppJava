@@ -10,5 +10,3 @@ Requirements:
 
 
 MetaWeather api: https://www.metaweather.com/api/
-
-Download Latest Realease Here: <a href="https://github.com/asghar-ali-shah/My-Weather---metaweather-api-Android-Weather-App/releases" ><b>Releases<b/><a/>
